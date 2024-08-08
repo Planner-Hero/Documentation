@@ -40,7 +40,7 @@
         <mxCell id="4pgU6K6X58AFgkONW4SR-38" value="LockoutEndDateUtc" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
           <mxGeometry y="300" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4pgU6K6X58AFgkONW4SR-39" value="Email" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
+        <mxCell id="4pgU6K6X58AFgkONW4SR-39" value="&lt;font color=&quot;#b5739d&quot;&gt;Email&lt;/font&gt;" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
           <mxGeometry y="330" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4pgU6K6X58AFgkONW4SR-40" value="FirstName" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="4pgU6K6X58AFgkONW4SR-42" value="Title" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
           <mxGeometry y="420" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4pgU6K6X58AFgkONW4SR-43" value="Phone" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
+        <mxCell id="4pgU6K6X58AFgkONW4SR-43" value="&lt;font color=&quot;#b5739d&quot;&gt;Phone&lt;/font&gt;" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
           <mxGeometry y="450" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WobnOvS2RGeJKXJC2Pv2-195" value="MobilePhone" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="4pgU6K6X58AFgkONW4SR-20" vertex="1">
