@@ -1,9 +1,265 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="fOHzQ5hOOtDTj9QllnTy">
-    <mxGraphModel>
+    <mxGraphModel dx="2412" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1TZjzNscxNpvH3x1nigz-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Sales Partners&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="50" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-3" target="1TZjzNscxNpvH3x1nigz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-3" value="Planner Hero team fills basic info and adds partner to brand." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-5" target="1TZjzNscxNpvH3x1nigz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-5" value="A RFP is created in the partners domain and they are added." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-6" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View all RFP&#39;s and Proposals&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;li&gt;Get notified on status / event updates to an RFP&lt;/li&gt;&lt;li&gt;respond with proposals/decline&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="575" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-11" target="1TZjzNscxNpvH3x1nigz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-7">
+          <mxGeometry x="-0.34" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-11" target="1TZjzNscxNpvH3x1nigz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-9">
+          <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-11" value="Does an account exist with partners Email?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-13" target="1TZjzNscxNpvH3x1nigz-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-13" value="Create account (user)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-15" target="1TZjzNscxNpvH3x1nigz-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-15" value="Log in" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-16" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Planner&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-18" target="1TZjzNscxNpvH3x1nigz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-18" value="User chooses to sign up for Planner Hero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-20" target="1TZjzNscxNpvH3x1nigz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-20" value="Fills out all user details" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-25" target="1TZjzNscxNpvH3x1nigz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-22" value="Create new" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-21">
+          <mxGeometry x="0.1778" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-25" target="1TZjzNscxNpvH3x1nigz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-24" value="Join" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-23">
+          <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-25" value="Do user intend to create or join organization?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-27" target="1TZjzNscxNpvH3x1nigz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-27" value="Go to create Planner Organization page. User is created as Admin" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-30" target="1TZjzNscxNpvH3x1nigz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-29" value="Someone invites their Email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-28">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-30" value="Instruction page for how to have member of Organization invite them to the Organization." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="275" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-31" value="User loaded into main dashboard and part of Organization." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="425" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-32" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Hotels&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-35" target="1TZjzNscxNpvH3x1nigz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-35" target="1TZjzNscxNpvH3x1nigz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-35" value="RFP is filled out and hotel is selected to receive the request." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-42" target="1TZjzNscxNpvH3x1nigz-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-37" value="via Email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-36">
+          <mxGeometry x="0.07" y="2" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-42" target="1TZjzNscxNpvH3x1nigz-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-39" value="via Planner Hero" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-38">
+          <mxGeometry x="0.36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-42" target="1TZjzNscxNpvH3x1nigz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-41" value="via Meeting broker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-40">
+          <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-42" value="RFP gets sent out" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-44" target="1TZjzNscxNpvH3x1nigz-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-44" value="Link sent to Email listed for hotel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-45" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Show RFP in the hotel (brands/orgs/chains?) Planner Hero dashboard if it exists.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="360" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-46" value="???" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-51" target="1TZjzNscxNpvH3x1nigz-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-48" value="Sign up" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-47">
+          <mxGeometry x="-0.0933" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-51" target="1TZjzNscxNpvH3x1nigz-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-50" value="Log In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-49">
+          <mxGeometry x="0.0235" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-51" value="Hotel contact or someone they forwarded it to click on the link" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-53" target="1TZjzNscxNpvH3x1nigz-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-53" value="Sign up as hotelier page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-58" target="1TZjzNscxNpvH3x1nigz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-55" value="&lt;font color=&quot;#009900&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-54">
+          <mxGeometry x="-0.18" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-58" target="1TZjzNscxNpvH3x1nigz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-57" value="&lt;font color=&quot;#ff3333&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-56">
+          <mxGeometry x="0.0625" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-58" value="&amp;nbsp; Is part of org RFP was sent to?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-59" value="View RFP details" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-61" target="1TZjzNscxNpvH3x1nigz-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-61" value="Does user have to switch orgs or can they join multiple?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-65" target="1TZjzNscxNpvH3x1nigz-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-63" value="&lt;font color=&quot;#009900&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-62">
+          <mxGeometry x="-0.06" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-65" target="1TZjzNscxNpvH3x1nigz-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-65" value="Do you represent any other Suppliers?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="770" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-66" value="Send message to Planner hero team so we can reach out to them." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="775" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-67" value="View RFP details" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-68" value="View RFP details" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-69" target="1TZjzNscxNpvH3x1nigz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-71" value="NSO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-70">
+          <mxGeometry x="0.0203" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-69" target="1TZjzNscxNpvH3x1nigz-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-75" value="DMO, RepFirm, CVB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-74">
+          <mxGeometry x="-0.2583" relative="1" as="geometry">
+            <mxPoint x="28" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-69" value="See main dashboard" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-73" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View all RFP&#39;s and Proposals&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="570" width="180" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
