@@ -249,6 +249,9 @@
         <mxCell id="1TZjzNscxNpvH3x1nigz-73" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View all RFP&#39;s and Proposals&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1980" y="570" width="180" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hotels&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Hotel suppliers&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="100" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
