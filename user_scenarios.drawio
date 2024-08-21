@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="fOHzQ5hOOtDTj9QllnTy">
-    <mxGraphModel dx="4303" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,16 +10,21 @@
         <mxCell id="1TZjzNscxNpvH3x1nigz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-3" target="1TZjzNscxNpvH3x1nigz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1TZjzNscxNpvH3x1nigz-3" value="Planner Hero team fills basic info and adds partner to brand." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1TZjzNscxNpvH3x1nigz-3" value="Planner add partners contact/domain to their Organization." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-5" target="1TZjzNscxNpvH3x1nigz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1TZjzNscxNpvH3x1nigz-111" value="send RFP email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TZjzNscxNpvH3x1nigz-4">
+          <mxGeometry x="-0.1267" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-5" value="A RFP is created in the partners domain and they are added." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1840" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1TZjzNscxNpvH3x1nigz-6" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View all RFP&#39;s and Proposals&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;li&gt;Get notified on status / event updates to an RFP&lt;/li&gt;&lt;li&gt;respond with proposals/decline&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1TZjzNscxNpvH3x1nigz-6" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View RFP&#39;s they were added to.&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;li&gt;Get notified on status / event updates to an RFP&lt;/li&gt;&lt;li&gt;respond with proposals/decline&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1690" y="575" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-11" target="1TZjzNscxNpvH3x1nigz-13">
@@ -192,7 +197,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TZjzNscxNpvH3x1nigz-58" value="&amp;nbsp; Is part of org RFP was sent to?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="1TZjzNscxNpvH3x1nigz-58" value="&amp;nbsp; Is part of supplier org RFP was sent to?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-59" value="View RFP details" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -201,7 +206,7 @@
         <mxCell id="1TZjzNscxNpvH3x1nigz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-61" target="1TZjzNscxNpvH3x1nigz-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1TZjzNscxNpvH3x1nigz-61" value="Does user have to switch orgs or can they join multiple?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="1TZjzNscxNpvH3x1nigz-61" value="User can join another supplier." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TZjzNscxNpvH3x1nigz-65" target="1TZjzNscxNpvH3x1nigz-66">
@@ -246,14 +251,14 @@
         <mxCell id="1TZjzNscxNpvH3x1nigz-69" value="See main dashboard" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1835" y="420" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1TZjzNscxNpvH3x1nigz-73" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View all RFP&#39;s and Proposals&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1TZjzNscxNpvH3x1nigz-73" value="They can:&lt;br&gt;&lt;ol&gt;&lt;li&gt;View RFP&#39;s they were added to.&lt;/li&gt;&lt;li&gt;Send new invites&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1980" y="570" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Hotels&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Hotel users are attached to supplier&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;They can view hotel page&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Planner hero can make users Admins&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Supplier admin and supplier user&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Can see other users in supplier&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Add users&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Reminders to see if lead catcher is correct&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Permissions&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Modify hotel information - probably not&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;View and Edit proposals&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Send new RFP notifications&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="55" width="380" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="1TZjzNscxNpvH3x1nigz-77" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sales Partners&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;NSO&#39;s&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Belong to a brand or hotel (supplier org)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CVB&#39;s&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Belong to a city&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="30" width="380" height="200" as="geometry" />
+        <mxCell id="1TZjzNscxNpvH3x1nigz-77" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sales Partners&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Get their contact gets added to organizations by planners.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;NSO&#39;s&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Belong to a brand or hotel (supplier org)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;CVB&#39;s&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Belong to a city&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="10" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1TZjzNscxNpvH3x1nigz-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="1TZjzNscxNpvH3x1nigz-79" target="1TZjzNscxNpvH3x1nigz-81" parent="1">
           <mxGeometry relative="1" as="geometry" />
