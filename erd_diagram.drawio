@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WobnOvS2RGeJKXJC2Pv2-57" value="SupplierAttachments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="WobnOvS2RGeJKXJC2Pv2-57" value="SupplierAttachment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1190" y="890" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WobnOvS2RGeJKXJC2Pv2-58" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;labelPadding=0;fontSize=14;" parent="WobnOvS2RGeJKXJC2Pv2-57" vertex="1">
@@ -1027,7 +1027,7 @@
         </mxCell>
         <mxCell id="g1RnvmXeN_X-qw1Nx1M_-224" value="cascade" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g1RnvmXeN_X-qw1Nx1M_-116" vertex="1" connectable="0">
           <mxGeometry x="-0.2792" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-3" as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g1RnvmXeN_X-qw1Nx1M_-108" value="User_UserRole" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
