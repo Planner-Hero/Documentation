@@ -1594,7 +1594,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bp8Ad_W-feIoPOKrlPBo-20" value="RfpAdditionalUsers (Planners)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Bp8Ad_W-feIoPOKrlPBo-20" value="RfpAdditionalUser (Planners)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1205" y="370" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Bp8Ad_W-feIoPOKrlPBo-21" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" vertex="1" parent="Bp8Ad_W-feIoPOKrlPBo-20">
