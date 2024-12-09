@@ -1397,7 +1397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OYXMgMczDbUdWveoTO2t-96" value="SalesContact" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="920" y="770" width="140" height="240" as="geometry" />
+          <mxGeometry x="900" y="740" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="OYXMgMczDbUdWveoTO2t-97" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;labelPadding=0;fontSize=14;" parent="OYXMgMczDbUdWveoTO2t-96" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
