@@ -2002,6 +2002,11 @@
         <mxCell id="heBkx-RyxM_j9eQOkzIr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="heBkx-RyxM_j9eQOkzIr-13" target="heBkx-RyxM_j9eQOkzIr-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="heBkx-RyxM_j9eQOkzIr-31" value="cascade" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="heBkx-RyxM_j9eQOkzIr-29">
+          <mxGeometry x="0.0156" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="heBkx-RyxM_j9eQOkzIr-13" value="Amenity" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1880" y="2210" width="140" height="90" as="geometry" />
         </mxCell>
