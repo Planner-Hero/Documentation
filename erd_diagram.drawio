@@ -1132,7 +1132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g1RnvmXeN_X-qw1Nx1M_-177" value="Supplier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#b85450;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1135" y="1200" width="140" height="300" as="geometry" />
+          <mxGeometry x="1135" y="1200" width="140" height="330" as="geometry" />
         </mxCell>
         <mxCell id="g1RnvmXeN_X-qw1Nx1M_-178" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" parent="g1RnvmXeN_X-qw1Nx1M_-177" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -1160,6 +1160,9 @@
         </mxCell>
         <mxCell id="5Nub0DIGciPov-4b4vng-3" value="WebsiteUrl" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="g1RnvmXeN_X-qw1Nx1M_-177" vertex="1">
           <mxGeometry y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="heBkx-RyxM_j9eQOkzIr-32" value="Description" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="g1RnvmXeN_X-qw1Nx1M_-177">
+          <mxGeometry y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g1RnvmXeN_X-qw1Nx1M_-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" parent="1" source="g1RnvmXeN_X-qw1Nx1M_-204" target="g1RnvmXeN_X-qw1Nx1M_-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
