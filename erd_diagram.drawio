@@ -369,7 +369,7 @@
             <mxPoint x="-2550" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="heBkx-RyxM_j9eQOkzIr-108" value="cascade" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WobnOvS2RGeJKXJC2Pv2-334" vertex="1" connectable="0">
+        <mxCell id="heBkx-RyxM_j9eQOkzIr-108" value="restrict" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WobnOvS2RGeJKXJC2Pv2-334" vertex="1" connectable="0">
           <mxGeometry x="0.0083" y="5" relative="1" as="geometry">
             <mxPoint x="-10" y="-3" as="offset" />
           </mxGeometry>
