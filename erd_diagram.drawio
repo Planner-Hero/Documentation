@@ -2202,7 +2202,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="heBkx-RyxM_j9eQOkzIr-192" value="ProposalCharge" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-3080" y="815" width="180" height="330" as="geometry" />
+          <mxGeometry x="-3080" y="815" width="180" height="360" as="geometry" />
         </mxCell>
         <mxCell id="heBkx-RyxM_j9eQOkzIr-193" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" parent="heBkx-RyxM_j9eQOkzIr-192" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -2228,11 +2228,14 @@
         <mxCell id="nKiLjJEzL9LApAmOqpL2-45" value="SecondaryValue" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="heBkx-RyxM_j9eQOkzIr-192">
           <mxGeometry y="240" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nKiLjJEzL9LApAmOqpL2-46" value="IsChargeBasisPercent" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="heBkx-RyxM_j9eQOkzIr-192">
+        <mxCell id="nKiLjJEzL9LApAmOqpL2-46" value="IsPrimaryBasisPercent" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="heBkx-RyxM_j9eQOkzIr-192">
           <mxGeometry y="270" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nKiLjJEzL9LApAmOqpL2-163" value="&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;fkDiscountType&lt;/font&gt;" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="heBkx-RyxM_j9eQOkzIr-192">
+        <mxCell id="nKiLjJEzL9LApAmOqpL2-163" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;fkDiscountType&lt;/font&gt;" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="heBkx-RyxM_j9eQOkzIr-192">
           <mxGeometry y="300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKiLjJEzL9LApAmOqpL2-164" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;IsSecondaryBasisPercent&lt;/font&gt;" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="heBkx-RyxM_j9eQOkzIr-192">
+          <mxGeometry y="330" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="heBkx-RyxM_j9eQOkzIr-195" value="ChargeType" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-3410" y="860" width="170" height="90" as="geometry" />
