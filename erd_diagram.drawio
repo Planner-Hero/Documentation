@@ -2261,7 +2261,7 @@
         <mxCell id="nKiLjJEzL9LApAmOqpL2-76" value="Proposal Accepted" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="nKiLjJEzL9LApAmOqpL2-73" vertex="1">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nKiLjJEzL9LApAmOqpL2-77" value="Proposal Declined" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="nKiLjJEzL9LApAmOqpL2-73" vertex="1">
+        <mxCell id="nKiLjJEzL9LApAmOqpL2-77" value="Request Declined" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" parent="nKiLjJEzL9LApAmOqpL2-73" vertex="1">
           <mxGeometry y="120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKiLjJEzL9LApAmOqpL2-94" value="ProposalMeeting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
@@ -2483,7 +2483,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NHhD6Rpmt9M21I77Jj--14" value="PlannerResponseStatusType" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="_NHhD6Rpmt9M21I77Jj--14" value="ProposalAcceptanceTypes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-2360" y="395" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_NHhD6Rpmt9M21I77Jj--15" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" vertex="1" parent="_NHhD6Rpmt9M21I77Jj--14">
@@ -2491,6 +2491,18 @@
         </mxCell>
         <mxCell id="_NHhD6Rpmt9M21I77Jj--16" value="Name" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="_NHhD6Rpmt9M21I77Jj--14">
           <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_NHhD6Rpmt9M21I77Jj--19" value="ProposalAcceptanceTypes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-2320" y="245" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_NHhD6Rpmt9M21I77Jj--20" value="Awaiting Review" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" vertex="1" parent="_NHhD6Rpmt9M21I77Jj--19">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_NHhD6Rpmt9M21I77Jj--21" value="Proposal Accepted" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" vertex="1" parent="_NHhD6Rpmt9M21I77Jj--19">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_NHhD6Rpmt9M21I77Jj--22" value="Proposal Declined" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="_NHhD6Rpmt9M21I77Jj--19">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
