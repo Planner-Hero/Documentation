@@ -1526,7 +1526,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bp8Ad_W-feIoPOKrlPBo-46" value="RfpRecipientSalesUser&lt;div&gt;(NSO&#39;s, etc)&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1460" y="-100" width="170" height="240" as="geometry" />
+          <mxGeometry x="-1460" y="-100" width="170" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Bp8Ad_W-feIoPOKrlPBo-47" value="pk" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" parent="Bp8Ad_W-feIoPOKrlPBo-46" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -1548,6 +1548,9 @@
         </mxCell>
         <mxCell id="jHRRc1vi3EkqxsrTvsre-1" value="InitialContactEmail" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Bp8Ad_W-feIoPOKrlPBo-46">
           <mxGeometry y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHRRc1vi3EkqxsrTvsre-2" value="InitialContactEmail" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Bp8Ad_W-feIoPOKrlPBo-46">
+          <mxGeometry y="240" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bp8Ad_W-feIoPOKrlPBo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="Bp8Ad_W-feIoPOKrlPBo-50" target="g1RnvmXeN_X-qw1Nx1M_-66" edge="1">
           <mxGeometry relative="1" as="geometry">
