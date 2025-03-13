@@ -2231,7 +2231,7 @@
         <mxCell id="nKiLjJEzL9LApAmOqpL2-73" value="ProposalStatusTypes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=#d79b00;rounded=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2535" y="155" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nKiLjJEzL9LApAmOqpL2-74" value="Awaiting Proposal" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" parent="nKiLjJEzL9LApAmOqpL2-73" vertex="1">
+        <mxCell id="nKiLjJEzL9LApAmOqpL2-74" value="Draft" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" parent="nKiLjJEzL9LApAmOqpL2-73" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKiLjJEzL9LApAmOqpL2-75" value="Proposal Submitted" style="text;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=east;fontSize=14;" parent="nKiLjJEzL9LApAmOqpL2-73" vertex="1">
